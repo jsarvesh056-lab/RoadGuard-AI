@@ -1,5 +1,3 @@
-function showMessage() {
-    alert(
-        "Welcome to RoadGuard AI! Together, let's make roads safer."
-    );
-}
+document.addEventListener("DOMContentLoaded", function () {
+    console.log("RoadGuard AI website loaded successfully.");
+});
